@@ -1,0 +1,73 @@
+- class_name: 爬虫
+  class_desc: 爬虫牛逼大神
+  link_list:
+    - name: Bob
+      link: https://www.itbob.cn/
+      avatar: https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F03%2F20240322202303-48a7ac.png
+      descr: web-js解密大神
+    - name: 李玺
+      link: http://www.lxspider.com/
+      avatar: https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F03%2F20240323152007-88d0c0.png
+      descr: 中科大数据研究院高级工程师
+    - name: 华云彬
+      link: https://hyb.life/
+      avatar: https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F03%2F20240323152201-6188bb.png
+      descr: 高级爬虫逆向工程师
+    - name: 无颜 | Alanhays
+      link: https://alanhays.github.io/
+      avatar: https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F03%2F20240323152349-c4936a.png
+      descr: 数据采集、逆向安全、网络杂谈
+    - name: 奋飞安全
+      link: http://91fans.com.cn/#gsc.tab=0
+      avatar: https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F03%2F20240323152531-c1571b.png
+      descr: 高级信息系统项目管理师，独立安全研究员
+    - name: K哥爬虫
+      link: https://cdn.itbob.cn/img/friends/qrcode_kgepachong.jpg
+      avatar: https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F03%2F20240323152648-cd6d49.png
+      descr: 逆向领域知名博主，公众号K哥爬虫
+    - name: TheWeiJunTG
+      link: https://cdn.itbob.cn/img/friends/qrcode_ReverseCrawler.jpg
+      avatar: https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F03%2F20240323153141-136399.png
+      descr: 逆向领域知名博主，公众号逆向与爬虫的故事
+    - name: Nanda
+      link: https://cdn.itbob.cn/img/friends/qrcode_pcsyd.jpg
+      avatar: https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F03%2F20240323152934-3682a2.png
+      descr: 探索主流混淆及风控策略，公众号爬虫术与道
+    - name: geekbyte
+      link: https://cdn.itbob.cn/img/friends/qrcode_geekbyte.jpg
+      avatar: https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F03%2F20240323152823-99190f.png
+      descr: TLS 指纹专家，公众号编角料     
+      
+      
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 中国最大社交分享平台
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 中国最大社交分享平台
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
